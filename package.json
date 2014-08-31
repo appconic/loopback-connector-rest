@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-rest.git"
+    "url": "https://github.com/appconic/loopback-connector-rest.git"
   },
   "license": {
     "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/strongloop/loopback-connector-rest/blob/master/LICENSE"
+    "url": "https://github.com/appconic/loopback-connector-rest/blob/master/LICENSE"
   }
 }
